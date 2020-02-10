@@ -1,0 +1,24 @@
+Toyota blue 1 4 0 500 9.5 false 25000
+Honda red 1 4 2 450 9.2 false 30000
+KIA white 1 4 3 550 9.7 false 20000
+BMW black 1 4 0 600 9.6 true 55000
+Tesla red 0 4 0 425 9.1 true 85000 30
+Chevy red 1 4 3 475 9.25 false 40000
+ChevyVolt green 0 4 0 375 8.9 true 37000 45
+Bentley black 1 4 0 575 9.8 false 150000
+NissanLeaf green 0 4 0 325 8.8 true 32000 55
+Bently pink 1 4 2 385 6.9 true 27381  
+Ford pink 1 4 0 32 5.6 false 41662  
+Chevy white 1 4 3 365 8.5 false 38647  
+Hyundai green 0 4 2 96 8 false 70468 92 
+Toyota orange 0 4 0 230 7.2 true 70041 56 
+Audi grey 0 4 2 356 3.4 true 3705 72 
+MINI pink 0 4 3 232 8.5 false 52940 3 
+Audi green 0 4 2 414 3.5 false 70939 39 
+Smart blue 0 4 0 250 8.9 true 40158 97 
+Kia green 0 4 3 698 9.7 false 94548 18 
+Bently red 1 4 2 540 0.4 false 32483  
+Kia white 1 4 2 162 5.4 false 93952  
+Honda pink 1 4 2 353 7.1 false 83103  
+Chevy grey 0 4 0 285 4 false 36128 76 
+Ford black 1 4 3 355 9.4 false 26467
